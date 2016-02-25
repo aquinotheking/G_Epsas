@@ -19,8 +19,8 @@ class Correo {
         $this->mail->isSMTP();                                      // Set mailer to use SMTP
         $this->mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
         $this->mail->SMTPAuth = true;                               // Enable SMTP authentication
-        $this->mail->Username = 'aquinotitbol2016@gmail.com';                 // SMTP username titbol.kevin@gmail.com
-        $this->mail->Password = 'ingeniero2016';                           // SMTP password chile2015
+        $this->mail->Username = 'titbol.kevin@gmail.com';                 // SMTP username titbol.kevin@gmail.com
+        $this->mail->Password = 'chile2015';                           // SMTP password chile2015
         $this->mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
         $this->mail->Port = 587;                                    // TCP port to connect to
 

@@ -6,7 +6,7 @@
 
 session_start();
 
-$_controllers_permitidos = array("cliente","cargo","usuario","tipo_cliente");
+$_controllers_permitidos = array("cliente","cargo","usuario","tipo_cliente","tipo_muestra","tipo_recipiente");
 $_acciones_permitidos = array("enviar");
 
 

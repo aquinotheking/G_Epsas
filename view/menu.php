@@ -254,7 +254,13 @@
                         <a href="?c=usuario"><i class="fa fa-table fa-fw"></i>Usuarios</a>
                     </li>
                     <li>
-                        <a href="?c=cargo"><i class="fa fa-table fa-fw"></i>Cargos</a>
+                        <a href="?c=tipo_muestra"><i class="fa fa-table fa-fw"></i>Tipo Muestra</a>
+                    </li>
+                    <li>
+                        <a href="?c=tipo_cliente"><i class="fa fa-table fa-fw"></i>Tipo Cliente</a>
+                    </li>
+                    <li>
+                        <a href="?c=tipo_recipiente"><i class="fa fa-table fa-fw"></i>Tipo Recipiente</a>
                     </li>
                     <li>
                         <a href="?c=cliente"><i class="fa fa-edit fa-fw"></i>Clientes</a>
